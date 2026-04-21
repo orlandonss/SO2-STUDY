@@ -1,3 +1,34 @@
+
+#TOOLS NEEDED 
+
+- Node JS (https://nodejs.org/en)
+- 
+
+#TUTORIAL
+
+Open the command line (cmd) and paste the following command 
+
+```bash
+- npm install -g @google/gemini-cli
+```
+Create/Acess a folder for example:
+
+
+```bash
+#create a folder
+mkdir <FILENAME>
+cd <FILE NAME>
+#access a folder
+cd \Desktop\FolderName
+```
+
+To run gemini:
+
+```
+#in the command line execute 
+- gemini
+```
+
 # AI MD FILE FOR INSTRUCTIONS
 
 # Agent Instructions
