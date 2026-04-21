@@ -25,7 +25,7 @@ cd \Desktop\FolderName
 
 To run gemini:
 
-```
+```bash
 #in the command line execute 
 - gemini
 ```
