@@ -17,8 +17,8 @@ Create/Acess a folder for example:
 
 ```bash
 #create a folder
-mkdir <FILENAME>
-cd <FILE NAME>
+mkdir <folderName>
+cd <folderName>
 #access a folder
 cd \Desktop\FolderName
 ```
