@@ -1,10 +1,11 @@
 
-#TOOLS NEEDED 
+# TOOLS NEEDED 
 
 - Node JS (https://nodejs.org/en)
-- 
+- For more info : https://gemini-setup.com/docs#installation
 
-#TUTORIAL
+
+# TUTORIAL
 
 Open the command line (cmd) and paste the following command 
 
